@@ -1,5 +1,8 @@
-# chimeraのアーカイブです。
+# archive
 
-終わりはさみしい。
+The site for viewing is now complete.
+Please check below.
 
-ライセンスは記事の作成者に依存します。
+https://chimera.nauzome.com/
+
+http://chimeraaix37t7da74gn6n4wwqtymaw4y5cddnkkaiykmxyzummtmjyd.onion/
